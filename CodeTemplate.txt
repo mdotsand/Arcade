@@ -2,26 +2,29 @@ CODE TEMPLATE:
 //This is a single line comment (notes that won't be read as instructions to the computer).
 //Different syntax is used for comments depending on the language.
 
-//CHANGE ME: Add the title of your game
-//Add your first and last name 
+//Pokemon
+//Monse Sandoval-Malherbe
 
 
-if (CHANGE ME: condition # 1) {
-    //Add event below
+if (Pokemon is grass, ice, bug, or steel) {
+    //Ember does 2x damage
 } else {
-    //Add event below
+    //if (Pokemon is fire, water, rock, or dragon){
+        //Ember does 1/2x damage
+} else {
+    //Ember does normal damage
 }
 
-if (CHANGE ME: condition # 2) {
-    //Add event below
+if (Player holds B Button) {
+    //MC runs
 } else {
-    //Add event below
+    //MC walks
 }
 
-if (CHANGE ME: condition # 3) {
-    //Add event below
+if (Opponent Pokemon is stronger than yours) {
+    //Switch Pokemon with another in your party
 } else {
-    //Add event below
+    //Keep your Pokemon in battle
 }
 
 
